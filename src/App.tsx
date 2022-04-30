@@ -12,7 +12,6 @@ import './App.css';
 function App() {
     return (
         <div className="container">
-            40 min
             <Lesson1 />
             {/*<Lesson3 />*/}
             {/*<Lesson4 />*/}
